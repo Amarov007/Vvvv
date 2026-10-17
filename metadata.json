@@ -1,0 +1,6 @@
+{
+  "name": "AMARIX007",
+  "description": "متجر AMARIX007 الرقمي بتجربة تسوق متطورة على غرار أمازون",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
